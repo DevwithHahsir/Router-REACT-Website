@@ -1,0 +1,21 @@
+.herosection
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 4rem;
+}
+
+.herosection img
+{
+  height: 15rem;
+  border-radius: 5px;
+}
+.text
+{
+    
+    width: 35rem;
+    font-size: large;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
